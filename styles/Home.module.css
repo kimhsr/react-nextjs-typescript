@@ -18,3 +18,13 @@
   padding: 0;
   margin: 0;
 }
+
+.listItem {
+  margin: 0 0 1.25rem;
+  list-style: none;
+}
+
+.lightText {
+  color: #666;
+  list-style: none;
+}
